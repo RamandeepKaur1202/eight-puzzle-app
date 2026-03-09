@@ -54,16 +54,19 @@ The algorithm:
 This allows the app to display the **best possible solution for any puzzle configuration**.
 
 ---
-
 ## 📸 Screenshots
 
-### 👋 Welcome Popup
+<div align="center">
 
-### 👋 Welcome Popup
+<img src="screenshots/welcome-popup.png" height="450">
+<img src="screenshots/game-board.png" height="450">
 
-### 🎉 Puzzle Solved
 
-### ⚙️ Settings Panel
+
+<img src="screenshots/puzzle-solved.png" height="450">
+<img src="screenshots/settings-panel.png" height="450">
+
+</div>
 
 ---
 
