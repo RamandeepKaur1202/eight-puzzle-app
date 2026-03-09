@@ -1,0 +1,10 @@
+{
+  "appId": "com.ramandeep.eightpuzzle",
+  "appName": "8 Puzzle",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#0b1220"
+  }
+}
