@@ -57,15 +57,13 @@ This allows the app to display the **best possible solution for any puzzle confi
 
 ## 📸 Screenshots
 
-### 🧩 Game Board
+### 👋 Welcome Popup
 
-### 🔀 Shuffled Puzzle
+### 👋 Welcome Popup
+
+### 🎉 Puzzle Solved
 
 ### ⚙️ Settings Panel
-
-### 🎚 Difficulty Selection
-
-### 🎉 Puzzle Solved Screen
 
 ---
 
